@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://www.robertstanley.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/My_Website-2596BE?style=for-the-badge&logo=world&logoColor=white" height="35" alt="website badge"  />
   </a>
 </div>
 

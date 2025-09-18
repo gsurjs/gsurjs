@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Software Engineer | Espresso Enthusiast | Adventurer</h2>
+<h2 align="left">Software Engineer ~ Espresso Enthusiast ~ Adventurer</h2>
 
 ###
 

@@ -2,17 +2,23 @@
 
 ###
 
-<h2 align="left">Software Developer 👨🏻‍💻</h2>
+<h2 align="left">Software Engineer | Espresso Enthusiast | Adventurer</h2>
 
 ###
 
-<h4 align="left">California ➡️ Atlanta, GA</h4>
+<h4 align="left">California ➡️ Georgia</h4>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/robert-stanley-cs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://www.robertstanley.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website" height="35" alt="linkedin logo"  />
   </a>
 </div>
 

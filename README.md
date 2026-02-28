@@ -26,5 +26,5 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsurjs&label=Profile%20Views&color=ff79c6&style=flat&base=777" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=gsurjs&label=Profile%20Views&color=0077B5&style=flat&base=777" alt="visitor count" />
 </div>

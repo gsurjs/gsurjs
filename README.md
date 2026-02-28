@@ -26,7 +26,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gsurjs.gsurjs&"  />
+  <img src="https://komarev.com/ghpvc/?username=gsurjs&label=Profile%20Views&color=ff79c6&style=flat" alt="visitor count" />
 </div>
-
-###
